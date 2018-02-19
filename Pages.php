@@ -4,6 +4,7 @@ class Pages extends CI_Controller {
 
 	function __construct()
 	{
+		// jsdfkjsdlfsd
 		parent::__construct();
 		$this->load->library("session");
 	}
