@@ -1,15 +1,9 @@
 ﻿<?php
-test
-dhdfgd
-33333
-test 54654
-test 8797
+
 class Pages extends CI_Controller {
 
 	function __construct()
 	{
-		// jsdfkjsdlfsd
-		// master 2
 		parent::__construct();
 		$this->load->library("session");
 	}
