@@ -1,5 +1,5 @@
 ﻿<?php
-
+test
 class Pages extends CI_Controller {
 
 	function __construct()
