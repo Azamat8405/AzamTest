@@ -6,7 +6,9 @@ class Pages extends CI_Controller {
 	{
 
 		test1
-		
+
+		test2
+
 		parent::__construct();
 		$this->load->library("session");
 	}
