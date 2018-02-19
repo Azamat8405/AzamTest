@@ -2,6 +2,8 @@
 test
 dhdfgd
 33333
+test 54654
+
 class Pages extends CI_Controller {
 
 	function __construct()
