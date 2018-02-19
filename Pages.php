@@ -4,6 +4,8 @@ class Pages extends CI_Controller {
 
 	function __construct()
 	{
+		master 1
+
 		parent::__construct();
 		$this->load->library("session");
 	}
