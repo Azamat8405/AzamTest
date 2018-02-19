@@ -1,6 +1,7 @@
 ﻿<?php
 test
 dhdfgd
+33333
 class Pages extends CI_Controller {
 
 	function __construct()
